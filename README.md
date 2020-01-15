@@ -8,6 +8,8 @@ Because Django was developed in a fast-paced newsroom environment, it was design
 
 Lets go....To start 
 
+First, read docs/intro/install.txt for instructions on installing Django.
+
 If Django is installed, you should see the version of your installation.
 
  #  $ python -m django --version
