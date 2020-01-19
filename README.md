@@ -16,7 +16,7 @@ First, read docs/intro/install.txt for instructions on installing Django.
 
 If Django is installed, you should see the version of your installation.
 
-Version : $ python -m django --version
+Version : python -m django --version
    
 # Creating a project
 
