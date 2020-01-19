@@ -6,13 +6,17 @@ Django is a web application framework for Python. It is designed to prioritize p
 
 Because Django was developed in a fast-paced newsroom environment, it was designed to make common Web-development tasks fast and easy.
 
+# Ridiculously fast.
+Django was designed to help developers take applications from concept to completion as quickly as possible.
+
+
 Lets go....To start 
 
 First, read docs/intro/install.txt for instructions on installing Django.
 
 If Django is installed, you should see the version of your installation.
 
- #  $ python -m django --version
+Version : $ python -m django --version
    
 # Creating a project
 
