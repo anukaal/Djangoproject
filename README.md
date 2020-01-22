@@ -6,6 +6,11 @@ Django is a web application framework for Python. It is designed to prioritize p
 
 Because Django was developed in a fast-paced newsroom environment, it was designed to make common Web-development tasks fast and easy.
 
+** First Clone it : https://github.com/anukaal/Djangoproject.git
+   Download the docs/intro/install.txt for instructions on installing Django. 
+   Then Download Postgres which I have used As a Database which i have used in my prijects.**
+   
+
 # Ridiculously fast.
 Django was designed to help developers take applications from concept to completion as quickly as possible.
 
